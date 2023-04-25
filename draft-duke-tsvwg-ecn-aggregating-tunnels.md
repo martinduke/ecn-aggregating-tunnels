@@ -200,6 +200,7 @@ This document has no IANA actions.
 TODO acknowledge.
 
 # Change Log
+{:numbered="false"}
 
 > **RFC Editor's Note:** Please remove this section prior to
 > publication of a final version of this document.
