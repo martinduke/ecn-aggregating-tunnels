@@ -130,7 +130,7 @@ inner header packet markings:
                     Table 1. Ingress Markings
 ~~~
 
-* Ingress may mark outer packet Not-ECT to avoid errors and alarms at tunnel
+\* Ingress may mark outer packet Not-ECT to avoid errors and alarms at tunnel
 egress.
 
 Encapsulators MUST, in the rules above, consider the marking of packet fragments
