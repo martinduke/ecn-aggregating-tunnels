@@ -184,8 +184,8 @@ Table of Contents
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                        Table 1. Ingress Markings
 
-   *  Ingress may mark outer packet Not-ECT to avoid errors and alarms
-      at tunnel egress.
+   * Ingress may mark outer packet Not-ECT to avoid errors and alarms at
+   tunnel egress.
 
    Encapsulators MUST, in the rules above, consider the marking of
    packet fragments where the inner IP header is not actually present in
