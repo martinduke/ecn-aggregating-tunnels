@@ -53,7 +53,7 @@ degraded quality of experience and/or delay due to packet retransmission. The
 internet community is also now experimenting with using unused ECN codepoints
 to provide extremely low-latency services {{?RFC9330}}.
 
-To take full advantage of ECN, {{?RFC6040}} provides rules for encapsulating
+To take full advantage of ECN, {{!RFC6040}} provides rules for encapsulating
 and decapsulating nodes for IP-in-IP tunnels to propagate ECN markings from
 inner headers to outer headers on tunnel ingress, and from outer to inner
 headers on tunnel egress.
