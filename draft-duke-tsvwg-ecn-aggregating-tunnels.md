@@ -204,6 +204,10 @@ TODO acknowledge.
 > **RFC Editor's Note:** Please remove this section prior to
 > publication of a final version of this document.
 
+## since draft-duke-tsvwg-ecn-aggregating-tunnels-01
+{:numbered="false"}
+* Made RFC6040 normative
+
 ## since draft-duke-tsvwg-ecn-aggregating-tunnels-00
 {:numbered="false"}
 * Fixed typos and update references
