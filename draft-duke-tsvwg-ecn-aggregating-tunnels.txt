@@ -85,6 +85,7 @@ Table of Contents
      8.2.  Informative References
    Acknowledgments
    Change Log
+     since draft-duke-tsvwg-ecn-aggregating-tunnels-01
      since draft-duke-tsvwg-ecn-aggregating-tunnels-00
    Author's Address
 
@@ -256,6 +257,10 @@ Table of Contents
               DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/rfc/rfc2119>.
 
+   [RFC6040]  Briscoe, B., "Tunnelling of Explicit Congestion
+              Notification", RFC 6040, DOI 10.17487/RFC6040, November
+              2010, <https://www.rfc-editor.org/rfc/rfc6040>.
+
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
@@ -282,10 +287,6 @@ Table of Contents
               RFC 3168, DOI 10.17487/RFC3168, September 2001,
               <https://www.rfc-editor.org/rfc/rfc3168>.
 
-   [RFC6040]  Briscoe, B., "Tunnelling of Explicit Congestion
-              Notification", RFC 6040, DOI 10.17487/RFC6040, November
-              2010, <https://www.rfc-editor.org/rfc/rfc6040>.
-
    [RFC9329]  Pauly, T. and V. Smyslov, "TCP Encapsulation of Internet
               Key Exchange Protocol (IKE) and IPsec Packets", RFC 9329,
               DOI 10.17487/RFC9329, November 2022,
@@ -305,6 +306,10 @@ Change Log
 
       *RFC Editor's Note:* Please remove this section prior to
       publication of a final version of this document.
+
+since draft-duke-tsvwg-ecn-aggregating-tunnels-01
+
+   *  Made RFC6040 normative
 
 since draft-duke-tsvwg-ecn-aggregating-tunnels-00
 
