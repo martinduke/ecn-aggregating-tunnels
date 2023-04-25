@@ -5,8 +5,7 @@ category: bcp
 
 docname: draft-duke-tsvwg-ecn-aggregating-tunnels-latest
 submissiontype: IETF
-number:
-date: 20230424
+date: {DATE}
 consensus: true
 v: 3
 area: "Transport"
@@ -206,4 +205,5 @@ TODO acknowledge.
 > publication of a final version of this document.
 
 ## since draft-duke-tsvwg-ecn-aggregating-tunnels-00
+{:numbered="false"}
 * Fixed typos and update references
