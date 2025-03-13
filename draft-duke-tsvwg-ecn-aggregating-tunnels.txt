@@ -4,8 +4,8 @@
 
 Transport Area Working Group                                     M. Duke
 Internet-Draft                                                    Google
-Intended status: Best Current Practice                     25 April 2023
-Expires: 27 October 2023
+Intended status: Best Current Practice                     13 March 2025
+Expires: 14 September 2025
 
 
                       ECN Over Aggregating Tunnels
@@ -55,11 +55,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 27 October 2023.
+   This Internet-Draft will expire on 14 September 2025.
 
 Copyright Notice
 
-   Copyright (c) 2023 IETF Trust and the persons identified as the
+   Copyright (c) 2025 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -278,9 +278,9 @@ Table of Contents
    [I-D.ietf-masque-connect-ip]
               Pauly, T., Schinazi, D., Chernyakhovsky, A., Kühlewind,
               M., and M. Westerlund, "Proxying IP in HTTP", Work in
-              Progress, Internet-Draft, draft-ietf-masque-connect-ip-12,
-              20 April 2023, <https://datatracker.ietf.org/doc/html/
-              draft-ietf-masque-connect-ip-12>.
+              Progress, Internet-Draft, draft-ietf-masque-connect-ip-13,
+              28 April 2023, <https://datatracker.ietf.org/doc/html/
+              draft-ietf-masque-connect-ip-13>.
 
    [RFC3168]  Ramakrishnan, K., Floyd, S., and D. Black, "The Addition
               of Explicit Congestion Notification (ECN) to IP",
